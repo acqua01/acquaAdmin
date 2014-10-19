@@ -1,2 +1,4 @@
-acquaAdmin
-==========
+Code-Igniter-Templating
+=======================
+
+Code Igniter Templating
