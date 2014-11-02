@@ -26,7 +26,7 @@ class Login extends CI_Controller
 		$msg = '<font color=red>Invalid username and/or password.</font><br />';
 			$this->first_page($msg);
 		}
-		else
+		else 
 		{
 			redirect("welcome/home");
 		}
