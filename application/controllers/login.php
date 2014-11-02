@@ -12,7 +12,7 @@ class Login extends CI_Controller
     public function first_page($msg = NULL)
     {
    	$this->template->title('Login');
-       // $this->load->view('login');
+        //$this->load->view('login');
 		 $data['msg'] = $msg;
         $this->load->view('login',$data);
 		 }
