@@ -38,7 +38,7 @@
 |
 */
 
-$route['default_controller'] = "welcome/home";
+$route['default_controller'] = "login/first_page";
 $route['404_override'] = '';
 
 $route['quotations/sortby_([a-z]+)_([a-z]+)'] = "quotations/visitorLeads/$1/$2";
