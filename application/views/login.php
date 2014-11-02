@@ -87,6 +87,7 @@
 				</div><!--/span-->
 			</div><!--/row-->
 				</div><!--/fluid-row-->
+				<?php ?>
 		
 	</div><!--/.fluid-container-->
 
